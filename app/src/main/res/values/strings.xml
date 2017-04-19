@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">P0961_ServiceBackBroadcastReceiver</string>
+    <string name="start_service">Start service</string>
+    <string name="task_1">Task 1</string>
+    <string name="task_2">Task 2</string>
+    <string name="task_3">Task 3</string>
+    <string name="_start">start</string>
+    <string name="_finish_result">finish, result =</string>
+    <string name="my_run_">MyRun#</string>
+    <string name="_create">create</string>
+    <string name="_start_time_">start, time =</string>
+</resources>
